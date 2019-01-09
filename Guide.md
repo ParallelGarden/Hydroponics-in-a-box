@@ -6,7 +6,7 @@ hello world
 * ggg
 
 #
-![obrazek vole](Hydroponics-in-a-box/bio waste W.png)
+![obrazek vole](bio waste W.png)
 
 1. list 1
 2. dfdfd
