@@ -6,7 +6,7 @@ hello world
 * ggg
 
 #
-![obrazek vole](design.png)
+![obrazek vole](images/design.png)
 
 1. list 1
 2. dfdfd
