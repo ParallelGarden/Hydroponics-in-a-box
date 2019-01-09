@@ -6,7 +6,7 @@ hello world
 * ggg
 
 #
-![obrazek vole](Hydroponics-in-a-box/design.png)
+![obrazek vole](design.png)
 
 1. list 1
 2. dfdfd
