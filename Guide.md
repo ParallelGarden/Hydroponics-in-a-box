@@ -70,7 +70,20 @@ Seal all gaps with plumbers putty to seal the reservoir. Repeat this operation c
 #### REFERENCE	 
 Refer to the drawing Reservoir for more information.
 
+## MIDDLE FLOOR
 
+### LIST OF MATERIALS:
+
+* Plastic board (used plastic banner) 95x72,5x0,5cm		 2PCS
+* Plastic anchors for styrofoam heat insulation Length 6cm 	21PCS
+* Plumbers putty		280ml
+
+### PROCEDURE:
+
+#### Step 1	
+Take one plastic board and cut away two corners. Corners are being cut away to create passage for the irrigation pipeline, and to create access to the growing solution for monitoring.
+
+![Illustrative photo](images/Pic11.jpg)
 
 
 
