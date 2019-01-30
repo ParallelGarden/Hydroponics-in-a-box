@@ -122,7 +122,7 @@ Cut away holes for pots and irrigation capillary pipes.
 #### Step 3	
 Cut plastic anchors to the length of 12,5cm and glue them with plumbers putty or super glue to the bottom of both plastic boards.
 
-![Illustrative photo](images/Pic18.jpg)
+
 
 ![Illustrative photo](images/Pic19.jpg)
 
