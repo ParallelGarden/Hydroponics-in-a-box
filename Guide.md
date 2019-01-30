@@ -202,24 +202,34 @@ Connect the hose to the pump outlet.
 #### REFERENCE:	
 Refer to drawings Top Board Construction and Setup for more information.
 
+# LIGHTING SYSTEM
 
+## LIST OF MATERIALS:
 
+* Wooden prism 150x3x2cm 			17PCS
+* Wooden prism 99x5x2cm 			3PCS
+* Nails length 3cm 				51PCS
+* Steel hooks with screws 			4PCS
+* Full spectrum LED lights SANlight M30 30W	4PCS
 
-hello world
-* gggg
-* ggg
-* ggg
+### PROCEDURE:
 
-#
+#### Step 1	
+Construct a grid  out ouf wooden prisms with nails, and attach steel hooks to the top of the grid as per drawings.
 
-zh
-1. list 1
-2. dfdfd
-2. fdfdfd
-3. gggg
-4. gggg
+![Illustrative photo](images/Pic31.jpg)
 
-### 444
-## ff
-###### ssss
-d
+![Illustrative photo](images/Pic32.jpg)
+
+![Illustrative photo](images/Pic33.jpg)
+
+#### Step 2	
+Hang wooden contruction to the ceiling.
+
+#### Step 3	
+Attach lights to the construction and lead cables as needed.
+
+#### REFERENCE	
+Refer to the drawing Lighting System for more information.
+
+### HAVE FUN ;)
