@@ -83,7 +83,7 @@ Refer to the drawing Reservoir for more information.
 #### Step 1	
 Take one plastic board and cut away two corners. Corners are being cut away to create passage for the irrigation pipeline, and to create access to the growing solution for monitoring.
 
-
+![Illustrative photo](images/Pic12.jpg)
 
 
 
