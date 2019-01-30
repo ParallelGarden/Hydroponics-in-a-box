@@ -36,7 +36,7 @@ This hydroponic system was developed as a custom design feature for Bitcoin Coff
 
 ### PROCEDURE:
 
-Step 1	Construct the basic frame of the box out of the plywood. Fix each side evenly with 3 screws 4x40. To avoid rupture of the plywood it is recommended to drill a hole of slightly smaller diameter than the diameter of the screw. When completed, dril a hole for pump cable in the upper half of the box height (as per drawing).
+#### Step 1	Construct the basic frame of the box out of the plywood. Fix each side evenly with 3 screws 4x40. To avoid rupture of the plywood it is recommended to drill a hole of slightly smaller diameter than the diameter of the screw. When completed, dril a hole for pump cable in the upper half of the box height (as per drawing).
 
 
 hello world
