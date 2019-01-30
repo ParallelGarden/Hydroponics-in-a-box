@@ -23,7 +23,7 @@ This hydroponic system was developed as a custom design feature for Bitcoin Coff
 
 ### LIST OF MATERIALS:
 
-* Plywood board 96x20x2cm	2PCS
+* Plywood board 96x20x2cm 2PCS
 * Plywood board 150x20x2cm 	2PCS
 * Screws for wood 4x40 		12PCS
 * Plastic board (used plastic banner) 150x100x0,5cm	1PC
@@ -151,7 +151,56 @@ Refer to the drawing Top Board Construction for more information.
 #### Step 1	
 Glue plastic pipe holders to the bottom of the board (7pcs per board) with super glue.
 
+![Illustrative photo](images/Pic20.jpg)
 
+#### Step 2	
+Cut plastic pipe in 4 pieces of 89cm and 4 pices of 66cm and connect them with L connections. Create two rectangular pipeline circuits.
+
+![Illustrative photo](images/Pic21.jpg)
+
+#### Step 3	
+Cut two shorter plastic pipes and insert T connection.
+
+![Illustrative photo](images/Pic22.jpg)
+
+#### Step 4	
+Drill small holes into the pipeline and insert flow regulators. Holes should be placed with similar distance to ensure even solution delivery. Note: One module should feed 11 plants, and the other one only 10. To distribute the solution evenly, install 11 flow regulators on both pipeline modules. The extra flow regulator installed in the growing board that feeds only 10 plants will be kept unused.
+
+![Illustrative photo](images/Pic23.jpg)
+
+![Illustrative photo](images/Pic24.jpg)
+
+#### Step 5	
+Attach capillary pipes to flow regulators and put them through holes in the board. Then you may attach dripping needles to blank ends of capillary pipes. Note: One flow regulator on the board with 10 pot holes will remain blank.
+
+![Illustrative photo](images/Pic25.jpg)
+
+#### Step 6	
+Finalize the construction with attaching the hose to inlets of pipeline modules. At the end use one T connection to join pipeline modules to one inlet. Hose should not be folded over to avoid water to move through the system easily.
+
+![Illustrative photo](images/Pic26.jpg)
+
+#### Step 7	
+Cut the power cable of the pump near the socket plug, put the pump into the box and push the cable through the cable hole in the box. Join the cable again with cable connections.
+
+PIC
+
+PIC
+
+#### Step 8	
+Assemble the system. Put the middle floor inside the box and then install the top board.
+
+![Illustrative photo](images/Pic29.jpg)
+
+#### Step 9	
+Connect the hose to the pump outlet.
+
+![Illustrative photo](images/Pic30.jpg)
+
+![Illustrative photo](images/Pic31.jpg)
+
+#### REFERENCE:	
+Refer to drawings Top Board Construction and Setup for more information.
 
 
 
