@@ -36,7 +36,46 @@ This hydroponic system was developed as a custom design feature for Bitcoin Coff
 
 ### PROCEDURE:
 
-#### Step 1	Construct the basic frame of the box out of the plywood. Fix each side evenly with 3 screws 4x40. To avoid rupture of the plywood it is recommended to drill a hole of slightly smaller diameter than the diameter of the screw. When completed, dril a hole for pump cable in the upper half of the box height (as per drawing).
+#### Step 1	
+Construct the basic frame of the box out of the plywood. Fix each side evenly with 3 screws 4x40. To avoid rupture of the plywood it is recommended to drill a hole of slightly smaller diameter than the diameter of the screw. When completed, dril a hole for pump cable in the upper half of the box height (as per drawing).
+
+![](images/Pic4.jpg)
+
+![](images/Pic5.jpg)
+
+#### Step 2	
+Attach the plastic board  (150x100cm) to the wooden frame to create first layer of the bottom. Use glue and screws 3x40. Screws shall be placed in 10cm distance from each other.
+
+![](images/Pic6.jpg)
+
+![](images/Pic7.jpg)
+
+#### Step 3	
+Glue another plastic board (146x96cm) on the top of the bottom plastic board to create second layer of the bottom. Blank side should face up.
+
+![](images/Pic8.jpg)
+
+![](images/Pic9.jpg)
+
+#### Step 4	
+Glue plastic boards (146x18x0,5cm and 95x18x0,5cm) on sides of the box from the inside.
+
+![](images/Pic10.jpg)
+
+#### Step 5	
+Seal all gaps with plumbers putty to seal the reservoir. Repeat this operation couple of times to make sure the reservoir will be waterproof. TIP: Once this step is done conduct a leakage test by filling the reservoir with water to the level of 11cm of depth and look for any leakage.
+
+![Illustrative photo](images/Pic11.jpg)
+
+#### REFERENCE	 
+Refer to the drawing Reservoir for more information.
+
+
+
+
+
+
+
 
 
 hello world
