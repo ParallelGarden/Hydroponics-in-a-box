@@ -97,14 +97,59 @@ Cut plastic anchors to the length of 6cm and glue them to both boards with plumb
 #### REFERENCE	
 Refer to the drawing Middle Floor Construction for more information.
 
+## TOP BOARD
 
+### LIST OF MATERIALS:
 
+* Plastic board (used plastic banner) 75x100x0,5cm 		2PCS
+* Plastic board (used plastic banner) 72,5x95x0,5cm 		2PCS
+* Glue for plastics
+* Plastic anchors for styrofoam heat insulation Length 12,5cm 	10PCS
+* Plumbers putty
 
+### PROCEDURE:
 
+#### Step 1	
+Glue smaller plastic boards to the bottom of larger ones. One edge should be aligned with the larger board while leaving even 2,5cm gap on other three sides.
 
+![Illustrative photo](images/Pic16.jpg)
 
+#### Step 2	
+Cut away holes for pots and irrigation capillary pipes. 
 
+![Illustrative photo](images/Pic17.jpg)
 
+#### Step 3	
+Cut plastic anchors to the length of 12,5cm and glue them with plumbers putty or super glue to the bottom of both plastic boards.
+
+![Illustrative photo](images/Pic18.jpg)
+
+![Illustrative photo](images/Pic19.jpg)
+
+#### REFERENCE	
+Refer to the drawing Top Board Construction for more information.
+
+## IRRIGATION
+
+### LIST OF MATERIALS:
+
+•	Plastic pipe diameter 1,5cm holder 		14PCS
+•	Plastic pipe diameter 1,5cm			6m
+•	Plastic pipe L connection diameter 1,5cm 	8PCS
+•	Plastic pipe T connections diameter 1,5cm 	3PCS
+•	Plastic hose diameter 1,5cm 			1m
+•	Plastic hose L connections 			2PCS
+•	Plastic flow regulator				22PCS
+•	Plastic capillary pipes 30cm 			21PCS
+•	Dripping needles 				21PCS
+•	Super glue 					1PC
+•	Submersible water pump 750l/h		1PC
+•	Lever cable connectors 				2PCS
+
+### PROCEDURE:
+
+#### Step 1	
+Glue plastic pipe holders to the bottom of the board (7pcs per board) with super glue.
 
 
 
