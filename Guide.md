@@ -190,14 +190,14 @@ PIC
 #### Step 8	
 Assemble the system. Put the middle floor inside the box and then install the top board.
 
-![Illustrative photo](images/Pic29.jpg)
+![Illustrative photo](images/Pic28.jpg)
 
 #### Step 9	
 Connect the hose to the pump outlet.
 
-![Illustrative photo](images/Pic30.jpg)
+![Illustrative photo](images/Pic29.jpg)
 
-![Illustrative photo](images/Pic31.jpg)
+![Illustrative photo](images/Pic30.jpg)
 
 #### REFERENCE:	
 Refer to drawings Top Board Construction and Setup for more information.
