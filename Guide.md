@@ -85,6 +85,26 @@ Take one plastic board and cut away two corners. Corners are being cut away to c
 
 ![Illustrative photo](images/Pic12.jpg)
 
+#### Step 2	
+Cut plastic anchors to the length of 6cm and glue them to both boards with plumbers putty.
+
+![Illustrative photo](images/Pic13.jpg)
+
+![Illustrative photo](images/Pic14.jpg)
+
+![Illustrative photo](images/Pic15.jpg)
+
+#### REFERENCE	
+Refer to the drawing Middle Floor Construction for more information.
+
+
+
+
+
+
+
+
+
 
 
 
