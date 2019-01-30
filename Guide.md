@@ -133,18 +133,18 @@ Refer to the drawing Top Board Construction for more information.
 
 ### LIST OF MATERIALS:
 
-•	Plastic pipe diameter 1,5cm holder 		14PCS
-•	Plastic pipe diameter 1,5cm			6m
-•	Plastic pipe L connection diameter 1,5cm 	8PCS
-•	Plastic pipe T connections diameter 1,5cm 	3PCS
-•	Plastic hose diameter 1,5cm 			1m
-•	Plastic hose L connections 			2PCS
-•	Plastic flow regulator				22PCS
-•	Plastic capillary pipes 30cm 			21PCS
-•	Dripping needles 				21PCS
-•	Super glue 					1PC
-•	Submersible water pump 750l/h		1PC
-•	Lever cable connectors 				2PCS
+* Plastic pipe diameter 1,5cm holder 		14PCS
+* Plastic pipe diameter 1,5cm			6m
+* Plastic pipe L connection diameter 1,5cm 	8PCS
+* Plastic pipe T connections diameter 1,5cm 	3PCS
+* Plastic hose diameter 1,5cm 			1m
+* Plastic hose L connections 			2PCS
+* Plastic flow regulator				22PCS
+* Plastic capillary pipes 30cm 			21PCS
+* Dripping needles 				21PCS
+* Super glue 					1PC
+* Submersible water pump 750l/h		1PC
+* Lever cable connectors 				2PCS
 
 ### PROCEDURE:
 
