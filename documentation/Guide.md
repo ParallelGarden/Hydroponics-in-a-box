@@ -6,9 +6,9 @@ This hydroponic system was developed as a custom design feature for Bitcoin Coff
 
 ![](../images/Pic1.jpg)
 
-![](..images/Pic2.jpg)
+![](../images/Pic2.jpg)
 
-![](..images/Pic3.jpg)
+![](../images/Pic3.jpg)
 
 ## TOOLS
 
@@ -39,16 +39,16 @@ This hydroponic system was developed as a custom design feature for Bitcoin Coff
 #### Step 1	
 Construct the basic frame of the box out of the plywood. Fix each side evenly with 3 screws 4x40. To avoid rupture of the plywood it is recommended to drill a hole of slightly smaller diameter than the diameter of the screw. When completed, dril a hole for pump cable in the upper half of the box height (as per drawing).
 
-![](..images/Pic4.jpg)
+![](../images/Pic4.jpg)
 
-![](..images/Pic5.jpg)
+![](../images/Pic5.jpg)
 
 #### Step 2	
 Attach the plastic board  (150x100cm) to the wooden frame to create first layer of the bottom. Use glue and screws 3x40. Screws shall be placed in 10cm distance from each other.
 
-![](..images/Pic6.jpg)
+![](../images/Pic6.jpg)
 
-![](..images/Pic7.jpg)
+![](../images/Pic7.jpg)
 
 #### Step 3	
 Glue another plastic board (146x96cm) on the top of the bottom plastic board to create second layer of the bottom. Blank side should face up.
