@@ -65,7 +65,7 @@ Glue plastic boards (146x18x0,5cm and 95x18x0,5cm) on sides of the box from the 
 #### Step 5	
 Seal all gaps with plumbers putty to seal the reservoir. Repeat this operation couple of times to make sure the reservoir will be waterproof. TIP: Once this step is done conduct a leakage test by filling the reservoir with water to the level of 11cm of depth and look for any leakage.
 
-![](../images/Pic11.jpg)
+![Illustrative_photo](../images/Pic11.jpg)
 
 #### REFERENCE	 
 Refer to the drawing Reservoir for more information.
