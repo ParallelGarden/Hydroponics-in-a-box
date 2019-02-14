@@ -32,4 +32,4 @@ NOTICE! We understand somebody might not be familiar with Github. If you would l
 
 ##### IoT device
 
-[https://github.com/octopusengine/octopusLAB_parallel_garden](https://github.com/octopusengine/octopusLAB_parallel_garden)
+Full documentation about this project may be found in the Github repository under following link:[https://github.com/octopusengine/octopusLAB_parallel_garden](https://github.com/octopusengine/octopusLAB_parallel_garden)
