@@ -38,3 +38,7 @@ NOTICE! We understand somebody might not be familiar with Github. If you would l
 ##### IoT device
 
 Full documentation about this project may be found in the Github repository under following link:[https://github.com/octopusengine/octopusLAB_parallel_garden](https://github.com/octopusengine/octopusLAB_parallel_garden)
+
+Collected database is accessible under following link:
+
+[http://www.octopusengine.org/api/hydrop/?sel=device&device=240ac4a9&fbclid=IwAR0SvlvuuEOvEfftQUlHOE6-mUjWzaS8o3ygjt4ncLE0zVd5KjiXrPTP7Ds](http://www.octopusengine.org/api/hydrop/?sel=device&device=240ac4a9&fbclid=IwAR0SvlvuuEOvEfftQUlHOE6-mUjWzaS8o3ygjt4ncLE0zVd5KjiXrPTP7Ds)
