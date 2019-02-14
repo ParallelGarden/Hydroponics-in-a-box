@@ -15,4 +15,4 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 
 #### Hydroponics system
 
-Full documentation about this project may be found in the Github repository under following link: [GitHub](https://github.com/ParallelGarden/Hydroponics-in-a-box)
+Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box)
