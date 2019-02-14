@@ -9,10 +9,13 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 This iniciative is a project related to the Enviro Meetup programme we are running in Paralelní Polis in Prague. Our activities are being live streamed through the facebook of Paralelní Polis [https://www.facebook.com/vejdiven/](https://www.facebook.com/vejdiven/) . Then they are being uploaded to youtube under following link: [https://www.youtube.com/watch?v=hhW6fsABNEE&list=PLGJQS0h-wqLQ6r8_6Ans_e26NkKsHYUh-](https://www.youtube.com/watch?v=hhW6fsABNEE&list=PLGJQS0h-wqLQ6r8_6Ans_e26NkKsHYUh-) We would love to enable the content for English speakers as well, and we would appreciate any initiative to help us with translation from Czech to English and subtitles addition into our videos.
 
 ![](images/Pic1.jpg)
+[Photo by: pedro__35mm](https://www.instagram.com/pedro__35mm/)
 
 ![](images/Pic2.jpg)
+[Photo by: pedro__35mm](https://www.instagram.com/pedro__35mm/)
 
 ![](images/Pic3.jpg)
+[Photo by: pedro__35mm](https://www.instagram.com/pedro__35mm/)
 
 ### OPEN SOURCE REPOSITORIES AND DEVELOPMENT
 
