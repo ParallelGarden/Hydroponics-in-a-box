@@ -12,7 +12,7 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 
 ![](images/Pic3.jpg)
 
-### OPEN SOURCE REPOSITORIES
+### OPEN SOURCE REPOSITORIES AND DEVELOPMENT
 
 #### Hydroponics system
 
@@ -20,7 +20,7 @@ Full documentation about this project may be found in the Github repository unde
 
 ##### Development road map:
 
-* Lights - We are overall interested in finding the perfect fit lights for our system to ipmrove the efe
+* Lights - We are overall interested in finding the perfect fit lights for our system to ipmrove the effectivity of the growing system. Crucial deliverables are: cost of the light, electricity consumption, and suitability. Current lights are full spectrum LED which is great for growing both leafy and fruit vegetables. However we need quite many of them due to the space limitation, and they are quite strong (causing little burning of edges of leaves). The angle of the light beam is quite narrow for the space.
 
 ##### IoT device
 
