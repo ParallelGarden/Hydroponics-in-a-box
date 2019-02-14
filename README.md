@@ -20,7 +20,11 @@ Full documentation about this project may be found in the Github repository unde
 
 ##### Development road map:
 
-* Lights - We are overall interested in finding the perfect fit lights for our system to ipmrove the effectivity of the growing system. Crucial deliverables are: cost of the light, electricity consumption, and suitability. Current lights are full spectrum LED which is great for growing both leafy and fruit vegetables. However we need quite many of them due to the space limitation, and they are quite strong (causing little burning of edges of leaves). The angle of the light beam is quite narrow for the space.
+* Lights - We are overal interested in finding the perfect fit lights for our system to ipmrove the effectivity of the growing system. Crucial deliverables are: cost of the light, electricity consumption, and suitability. Current lights are full spectrum LED which is great for growing both leafy and fruit vegetables. However we need quite many of them due to the space limitation, and they are quite strong (causing little burning of edges of leaves). The angle of the light beam is quite narrow for the space.
+
+* Growing substrates - At the beginning we started with realiable substrates such as coconut fibre substrate, or rockwool cubes. We are interested in finding a substrate that cen be produced locally, and is biodegradable. Coconut substrates are the last option as this material has to be imported from other parts of the world.
+
+* Fertilizers - We are looking for an organic fertilizer (or mix of organic fertilizers) to establish the production in bio quality. We are very limited by hygienic standards of the place as it is completely exposed. We must avoid any unpleasand smell or breeding of pests.
 
 ##### IoT device
 
