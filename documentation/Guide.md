@@ -190,14 +190,14 @@ PIC
 #### Step 8	
 Assemble the system. Put the middle floor inside the box and then install the top board.
 
-![](../images/Pic28.jpg)
+![](../images/Pic29.jpg)
 
 #### Step 9	
 Connect the hose to the pump outlet.
 
-![](../images/Pic29.jpg)
-
 ![](../images/Pic30.jpg)
+
+![](../images/Pic31.jpg)
 
 #### REFERENCE:	
 Refer to drawings Top Board Construction and Setup for more information.
@@ -217,11 +217,11 @@ Refer to drawings Top Board Construction and Setup for more information.
 #### Step 1	
 Construct a grid  out ouf wooden prisms with nails, and attach steel hooks to the top of the grid as per drawings.
 
-![](../images/Pic31.jpg)
-
 ![](../images/Pic32.jpg)
 
 ![](../images/Pic33.jpg)
+
+![](../images/Pic34.jpg)
 
 #### Step 2	
 Hang wooden contruction to the ceiling.
