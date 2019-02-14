@@ -14,11 +14,11 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 
 ### OPEN SOURCE REPOSITORIES AND DEVELOPMENT
 
-NOTICE! We understand somebody might not be familiar with Github. If you would like to contribute to the development, but don't know how to do so, please feel free to send your suggestions via e-mail: jakub.hamata@gmail.com
-
 #### Hydroponics system
 
-Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box)
+Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box) 
+
+NOTICE! We understand somebody might not be familiar with Github. If you would like to contribute to the development, but don't know how to do so, please feel free to send your suggestions via e-mail: jakub.hamata@gmail.com
 
 ##### Development road map:
 
