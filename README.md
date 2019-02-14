@@ -42,3 +42,5 @@ Full documentation about this project may be found in the Github repository unde
 Collected database is accessible under following link:
 
 [http://www.octopusengine.org/api/hydrop/?sel=device&device=240ac4a9&fbclid=IwAR0SvlvuuEOvEfftQUlHOE6-mUjWzaS8o3ygjt4ncLE0zVd5KjiXrPTP7Ds](http://www.octopusengine.org/api/hydrop/?sel=device&device=240ac4a9&fbclid=IwAR0SvlvuuEOvEfftQUlHOE6-mUjWzaS8o3ygjt4ncLE0zVd5KjiXrPTP7Ds)
+
+Created by Jakub Hamata
