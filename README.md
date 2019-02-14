@@ -18,7 +18,7 @@ This iniciative is a project related to the Enviro Meetup programme we are runni
 
 #### Hydroponics system
 
-Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box) 
+Full documentation about this project may be found in the Github repository under following link:  [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box) 
 
 NOTICE! We understand somebody might not be familiar with Github. If you would like to contribute to the development, but don't know how to do so, please feel free to send your suggestions via e-mail: jakub.hamata@gmail.com
 
