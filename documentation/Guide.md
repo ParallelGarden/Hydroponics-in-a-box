@@ -183,9 +183,9 @@ Finalize the construction with attaching the hose to inlets of pipeline modules.
 #### Step 7	
 Cut the power cable of the pump near the socket plug, put the pump into the box and push the cable through the cable hole in the box. Join the cable again with cable connections.
 
-PIC
+![](../images/Pic27.jpg)
 
-PIC
+![](../images/Pic28.jpg)
 
 #### Step 8	
 Assemble the system. Put the middle floor inside the box and then install the top board.
