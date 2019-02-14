@@ -17,3 +17,11 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 #### Hydroponics system
 
 Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box)
+
+##### Development road map:
+
+* Lights - We are overall interested in finding the perfect fit lights for our system to ipmrove the efe
+
+##### IoT device
+
+[https://github.com/octopusengine/octopusLAB_parallel_garden](https://github.com/octopusengine/octopusLAB_parallel_garden)
