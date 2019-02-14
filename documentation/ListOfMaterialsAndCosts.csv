@@ -1,67 +1,1 @@
-HYDROPONICS IN THE BOX;;;;;;;
-List of materials and costs;;;;;;;
-Conversion rate: 1USD = 21,5CZK (Jan2019);;;;;;;
-;;;;;;;
-RESERVOIR;;;;;;;
-;;;;;;;
-N.O.;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD)
-1;Plywood board;96x20x2cm (black finish);each;173;2;346;16
-2;Plywood board;150x20x2cm (black finish);each;346;2;692;32
-3;Screws;4x40;each;2;12;24;1
-4;Plastic board;150x100x0,5cm;each;896;1;896;42
-5;Screws;3x40;each;2;46;92;4
-6;Plastic board;146x96x0,5cm;each;896;1;896;42
-7;Plastic board;146x18x0,5cm;each;224;2;448;21
-8;Plastic board;95x18x0,5cm;each;224;2;448;21
-9;Glue for plastics;0,5l;each;120;1;120;6
-10;Plumbers putty;280ml;each;144;0,4;57,6;3
-Total;;;;;;4020;187
-;;;;;;;
-MIDDLE FLOOR;;;;;;;
-;;;;;;;
-N.O.;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD)
-1;Plastic board;95x72,5x0,5;each;448;2;896;42
-2;Plastic anchors for styrofoam heat insulation;Length 6cm;each;10;21;210;10
-3;Plumbers putty;;each;144;0,3;43,2;2
-Total;;;;;;1149;53
-;;;;;;;
-TOP BOARD;;;;;;;
-;;;;;;;
-N.O.;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD)
-1;Plastic board;75x100x0,5;each;448;2;896;42
-2;Plastic board;72,5x95x0,5;each;448;2;896;42
-3;Plastic anchors for styrofoam heat insulation;Length 12,5cm;each;10;10;100;5
-4;Plumbers putty;;each;144;0,15;22;1
-Total;;;;;;1914;89
-;;;;;;;
-IRRRIGATION;;;;;;;
-;;;;;;;
-N.O.;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD)
-1;Plastic pipe holder;Diameter 1,5cm;each;5,5;14;77;4
-2;Plastic pipe;Diameter 1,5cm;m;8,5;6;51;2
-3;Plastic pipe L connection;Diameter 1,5cm;each;15;8;120;6
-4;Plastic pipe T connection;Diameter 1,5cm;each;39;2;78;4
-5;Plastic hose;Diameter 1,5cm;m;35;1;35;2
-6;Plastic hose L connections;Diameter 1,5cm;each;39;2;78;4
-7;Plastic flow regulator ;4L/h;each;12;22;264;12
-8;Plastic capillary pipes;;m;10;6,3;63;3
-9;Plastic dripping needle;;each;5;21;105;5
-10;Super glue;;each;90;1;90;4
-11;Submersible water pump;750l/h;each;399;1;399;19
-12;Lever cable connecter;;each;20;2;40;2
-13;Analog timer;;each;100;1;100;5
-Total;;;;;;1500;70
-;;;;;;;
-LIGHTING SYSTEM;;;;;;;
-;;;;;;;
-N.O.;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD)
-1;Wooden prism;150x2x2cm;each;48;17;816;38
-2;Wooden prism;99x5x2cm;each;62;3;186;9
-3;Nails;3cm;each;1;51;51;2
-4;Steel hooks with screw;;each;2;4;8;1
-5;Full spectrum LED lights;SANlight M30 30W;each;3599;4;14396;670
-6;Analog timer;;each;100;1;100;5
-Total;;;;;;15557;724
-;;;;;;;
-;;;;;;CZK;USD
-TOTAL;;;;;;24139;1123
+HYDROPONICS IN THE BOX;;;;;;;;;List of materials and costs;;;;;;;;;Conversion rate: 1USD = 21,5CZK (Jan2019);;;;;;;;;;;;;;;;;;RESERVOIR;;;;;;;;;;;;;;;;;;N.O.;Article character;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD);1;FIX;Plywood board;96x20x2cm (black finish);each;173;2;346;16;2;FIX;Plywood board;150x20x2cm (black finish);each;346;2;692;32;3;FIX;Screws;4x40;each;2;12;24;1;4;VAR;Plastic board;150x100x0,5cm;each;896;1;896;42;5;FIX;Screws;3x40;each;2;46;92;4;6;VAR;Plastic board;146x96x0,5cm;each;896;1;896;42;7;VAR;Plastic board;146x18x0,5cm;each;224;2;448;21;8;VAR;Plastic board;95x18x0,5cm;each;224;2;448;21;9;FIX;Glue for plastics;0,5l;each;120;1;120;6;10;FIX;Plumbers putty;280ml;each;144;0,4;57,6;3;Total;;;;;;;4020;187;;;;;;;;;;MIDDLE FLOOR;;;;;;;;;;;;;;;;;;N.O.;Article character;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD);1;VAR;Plastic board;95x72,5x0,5;each;448;2;896;42;2;FIX;Plastic anchors for styrofoam heat insulation;Length 6cm;each;10;21;210;10;3;FIX;Plumbers putty;;each;144;0,3;43,2;2;Total;;;;;;;1149;53;;;;;;;;;;TOP BOARD;;;;;;;;;;;;;;;;;;N.O.;Article character;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD);1;FIX;Plastic board;75x100x0,5;each;448;2;896;42;2;FIX;Plastic board;72,5x95x0,5;each;448;2;896;42;3;FIX;Plastic anchors for styrofoam heat insulation;Length 12,5cm;each;10;10;100;5;4;FIX;Plumbers putty;;each;144;0,15;22;1;Total;;;;;;;1914;89;;;;;;;;;;IRRRIGATION;;;;;;;;;;;;;;;;;;N.O.;Article character;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD);1;FIX;Plastic pipe holder;Diameter 1,5cm;each;5,5;14;77;4;2;FIX;Plastic pipe;Diameter 1,5cm;m;8,5;6;51;2;3;FIX;Plastic pipe L connection;Diameter 1,5cm;each;15;8;120;6;4;FIX;Plastic pipe T connection;Diameter 1,5cm;each;39;2;78;4;5;FIX;Plastic hose;Diameter 1,5cm;m;35;1;35;2;6;FIX;Plastic hose L connections;Diameter 1,5cm;each;39;2;78;4;7;FIX;Plastic flow regulator ;4L/h;each;12;22;264;12;8;FIX;Plastic capillary pipes;;m;10;6,3;63;3;9;FIX;Plastic dripping needle;;each;5;21;105;5;10;FIX;Super glue;;each;90;1;90;4;11;FIX;Submersible water pump;750l/h;each;399;1;399;19;12;FIX;Lever cable connecter;;each;20;2;40;2;13;FIX;Analog timer;;each;100;1;100;5;Total;;;;;;;1500;70;;;;;;;;;;LIGHTING SYSTEM;;;;;;;;;;;;;;;;;;N.O.;Article character;Name;Material specification;Unit;Unit cost (CZK);Quantity;Total cost (CZK);Total cost (USD);1;FIX;Wooden prism;150x2x2cm;each;48;17;816;38;2;FIX;Wooden prism;99x5x2cm;each;62;3;186;9;3;FIX;Nails;3cm;each;1;51;51;2;4;FIX;Steel hooks with screw;;each;2;4;8;1;5;VAR;Full spectrum LED lights;SANlight M30 30W;each;3599;4;14396;670;6;FIX;Analog timer;;each;100;1;100;5;Total;;;;;;;15557;724;;;;;;;;;;;;;;;;;CZK;USD;TOTAL;;;;;;;24139;1123;;;;;;;;;;
