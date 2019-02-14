@@ -14,6 +14,8 @@ This hydroponics box was custom developed to fit under the bar in Bitcoin Coffee
 
 ### OPEN SOURCE REPOSITORIES AND DEVELOPMENT
 
+NOTICE! We understand somebody might not be familiar with Github. If you would like to contribute to the development, but don't know how to do so, please feel free to send your suggestions via e-mail: jakub.hamata@gmail.com
+
 #### Hydroponics system
 
 Full documentation about this project may be found in the Github repository under following link: [https://github.com/ParallelGarden/Hydroponics-in-a-box](https://github.com/ParallelGarden/Hydroponics-in-a-box)
@@ -25,6 +27,8 @@ Full documentation about this project may be found in the Github repository unde
 * Growing substrates - At the beginning we started with realiable substrates such as coconut fibre substrate, or rockwool cubes. We are interested in finding a substrate that cen be produced locally, and is biodegradable. Coconut substrates are the last option as this material has to be imported from other parts of the world.
 
 * Fertilizers - We are looking for an organic fertilizer (or mix of organic fertilizers) to establish the production in bio quality. We are very limited by hygienic standards of the place as it is completely exposed. We must avoid any unpleasand smell or breeding of pests.
+
+
 
 ##### IoT device
 
