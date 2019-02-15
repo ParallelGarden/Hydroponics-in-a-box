@@ -33,7 +33,7 @@ NOTICE! We understand somebody might not be familiar with Github. If you would l
 
 * Fertilizers - We are looking for an organic fertilizer (or mix of organic fertilizers) to establish the production in bio quality. We are very limited by hygienic standards of the place as it is completely exposed. We must avoid any unpleasand smell or breeding of pests.
 
-
+* Technologies and processes - Please have a look at our datasheet regarding the cost of the production under following link [https://github.com/ParallelGarden/Hydroponics-in-a-box/blob/master/datasheets/EconomicsOfTheProduction.pdf](https://github.com/ParallelGarden/Hydroponics-in-a-box/blob/master/datasheets/EconomicsOfTheProduction.pdf) We will appreciate any contributions regarding the technology that can reduce production costs or tips to reduce the time consumption of the labour. In case of labour we would like to reduce time consumption on following operations: preparation of seedlings, and regular cleanup of the system.
 
 ##### IoT device
 
